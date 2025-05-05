@@ -2,7 +2,7 @@
 # 👋 Hey, want to know more about me?
 
 ### Hi, my name is Diogo Silva but you can call me for r0b1nn;
-### I'm 17 years old;
+### I'm 18 years old;
 
 
 # Some things about me
