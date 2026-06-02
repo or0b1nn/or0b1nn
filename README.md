@@ -20,6 +20,7 @@ I enjoy building projects, learning new technologies, and improving my skills ev
 * 📘 TypeScript
 * 🟨 JavaScript
 * ☕ Java
+* 🍃 Spring Boot
 * 🎨 CSS
 * 🐘 PostgreSQL
 * 🗄️ MySQL
@@ -27,6 +28,7 @@ I enjoy building projects, learning new technologies, and improving my skills ev
 ## 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
@@ -34,6 +36,7 @@ I enjoy building projects, learning new technologies, and improving my skills ev
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
